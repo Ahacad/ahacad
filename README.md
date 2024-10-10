@@ -9,5 +9,5 @@
 
 ![karasu](./karasu.png)
 
-<p style="text-align:center;"><b>枯れ枝に 烏のとまりけり 秋の暮れ</b></p>
+<p align="center"><b>枯れ枝に 烏のとまりけり 秋の暮れ</b></p>
 

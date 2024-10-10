@@ -8,7 +8,9 @@
 - 🥇 A retired competitive programmer, though not so good, I look into [algorithms](https://github.com/ahacad-bots/algo-templates).
 
 <p align="center">
+  
 ![karasu](./karasu.png)
+
 </p>
 
 <p align="center"><b>枯れ枝に 烏のとまりけり 秋の暮れ</b></p>

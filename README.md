@@ -15,4 +15,3 @@
 
 <p style="text-align:center;"><b>寒月や 門なき寺の 天高し</b></p>
 <!--与謝蕪村-->
-

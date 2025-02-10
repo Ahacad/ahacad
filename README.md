@@ -7,7 +7,12 @@
 - 🌍 I speak 🇨🇳 中文, 🇺🇸 English, 🇯🇵 日本語, and a bit of 🇩🇪 Deutsche (for now).
 - 🥇 A retired competitive programmer, though not so good, I look into [algorithms](https://github.com/ahacad-bots/algo-templates).
 
-![karasu](./karasu.png)
+<!--![karasu](./karasu.png)-->
+<!---->
+<!--<p style="text-align:center;"><b>枯れ枝に 烏のとまりけり 秋の暮れ</b></p>-->
 
-<p style="text-align:center;"><b>枯れ枝に 烏のとまりけり 秋の暮れ</b></p>
+![明沈士充雪景山水](./shenshichongwinter1.png)
+
+<p style="text-align:center;"><b>寒月や 門なき寺の 天高し</b></p>
+<!--与謝蕪村-->
 
